@@ -1,4 +1,4 @@
-# Form implementation generated from reading ui file 'D:\TDT!!!\29\find_negative.ui'
+# Form implementation generated from reading ui file 'D:\ToiDiDaoCode\29\find_negative.ui'
 #
 # Created by: PyQt6 UI code generator 6.7.1
 #

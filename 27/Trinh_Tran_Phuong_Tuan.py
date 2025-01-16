@@ -1,4 +1,4 @@
-# Form implementation generated from reading ui file 'D:\TDT!!!\27\Trinh_Tran_Phuong_Tuan.ui'
+# Form implementation generated from reading ui file 'D:\ToiDiDaoCode\27\Trinh_Tran_Phuong_Tuan.ui'
 #
 # Created by: PyQt6 UI code generator 6.7.1
 #

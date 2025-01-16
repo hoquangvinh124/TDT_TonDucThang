@@ -1,4 +1,4 @@
-# Form implementation generated from reading ui file 'D:\TDT!!!\23\Book_Selling.ui'
+# Form implementation generated from reading ui file 'D:\ToiDiDaoCode\23\Book_Selling.ui'
 #
 # Created by: PyQt6 UI code generator 6.7.1
 #

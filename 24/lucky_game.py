@@ -1,4 +1,4 @@
-# Form implementation generated from reading ui file 'D:\TDT!!!\24\lucky_game.ui'
+# Form implementation generated from reading ui file 'D:\ToiDiDaoCode\24\lucky_game.ui'
 #
 # Created by: PyQt6 UI code generator 6.7.1
 #
